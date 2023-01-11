@@ -23,7 +23,7 @@ const home = (() => {
       // Headline
       const headline = document.createElement('h1');
       headline.classList.add('home-headline');
-      headline.textContent = 'Authentic Neapoletan pizza';
+      headline.textContent = 'Authentic Succulent Muffins';
       content.appendChild(headline);
       // Seperator
       const sep = document.createElement('div');
@@ -55,8 +55,7 @@ const home = (() => {
         const badgeText = document.createTextNode(badges[i].text);
         badge.appendChild(badgeText);
       }
-    }
-  
+    }  
     return {
       render,
     };

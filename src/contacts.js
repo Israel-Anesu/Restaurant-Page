@@ -101,7 +101,7 @@ const contacts = (() => {
       contactsMapContainer.appendChild(contactsMapHeadline);
       // Address
       const contactsMapAddress = document.createElement('h3');
-      contactsMapAddress.textContent = 'Piazza Sannazaro 42, 77123, Naples, Italy';
+      contactsMapAddress.textContent = 'Manake Bekery, 245 Samora, Harare';
       contactsMapContainer.appendChild(contactsMapAddress);
       // Map
       const contactsMapImg = document.createElement('img');
