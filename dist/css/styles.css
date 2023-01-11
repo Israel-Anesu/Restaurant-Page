@@ -53,7 +53,7 @@ body {
     margin: 0 50px;
     padding: 25px;
     text-align: center;
-    background: url(../img/background.jpg) no-repeat fixed center;
+    background: url(../img/background.webp) no-repeat fixed center;
     background-size: cover;
   }
   
